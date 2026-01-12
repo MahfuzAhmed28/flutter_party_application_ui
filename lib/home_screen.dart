@@ -32,7 +32,9 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           child: Column(
             children: [
-              Text('Find the best locations near to you for a good night')
+              Text('Find the best locations near to you for a good night',style: TextStyle(
+
+              ),)
             ],
           ),
         ),
